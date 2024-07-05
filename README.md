@@ -3,6 +3,8 @@
 Hoster is a responsive React website template designed for hosting services. It aims to provide a clean and modern look suitable for showcasing hosting plans, domain search, and customer benefits.
 
 ![Hoster Preview](./preview.png)
+![Hoster Preview](./preview1.png)
+![Hoster Preview](./preview2.png)
 
 ## Features
 
